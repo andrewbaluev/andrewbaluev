@@ -4,6 +4,7 @@
 
 [Bank Citi](https://andrewbaluev.github.io/citibank/)
 В этой работе исполльзую grid и flexbox, выпадающее меню, смена цвета svg по наведению, кастомные checkbox, input и fieldset.
+В данный момент без адаптива.
 
 
 <!--
