@@ -9,6 +9,8 @@
 [Odijo LandingPage](https://andrewbaluev.github.io/odijo-landing-page/)
 Верстка по курсу из YouTube. Адаптив под мобильные устройства, Grid, Flexbox. Дополнительно YouTube видео по уроку Вадима Макеева. 
 
+[Мой сайт](https://andrewbaluev.github.io/) Еще не готов.
+
 
 
 
