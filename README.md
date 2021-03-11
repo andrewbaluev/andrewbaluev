@@ -2,7 +2,9 @@
 
 Мои работы Вы можете посмотреть по ссылкам
 
-https://andrewbaluev.github.io/citibank/
+[Bank Citi](https://andrewbaluev.github.io/citibank/)
+В этой работе исполльзую grid и flexbox, выпадающее меню, смена цвета svg по наведению, кастомные checkbox, input и fieldset.
+
 
 <!--
 **andrewbaluev/andrewbaluev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
