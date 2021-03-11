@@ -7,7 +7,7 @@
 В данный момент без адаптива.
 
 [Odijo LandingPage](https://andrewbaluev.github.io/odijo-landing-page/)
-Верстка по курсу из YouTube. Адаптив под мобильные устройства, Grid, Flexbox, дополнительно YouTube видео по уроку Макеева. 
+Верстка по курсу из YouTube. Адаптив под мобильные устройства, Grid, Flexbox. Дополнительно YouTube видео по уроку Макеева. 
 
 
 
