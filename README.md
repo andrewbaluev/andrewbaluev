@@ -6,11 +6,11 @@
 В этой работе исполльзую grid и flexbox, выпадающее меню, смена цвета svg по наведению, кастомные checkbox, input и fieldset.
 В данный момент без адаптива.
 
-[Мой сайт](https://andrewbaluev.github.io/) Еще не готов.
+[Мой сайт](https://andrewbaluev.github.io/) Переключатель на темную тему, стандартные шрифты как в Bootstrap. Еще не готов.
 
 =======Ниже учебные проекты с Youtube и различных курсов=======
 
-[ActiveBox](https://andrewbaluev.github.io/activebox/) Верстка по урокам с YouTube канала BrainsCloud.
+[ActiveBox](https://andrewbaluev.github.io/activebox/) Верстка по урокам с YouTube канала BrainsCloud. Jquery, Slick Slider.
 
 [Odijo LandingPage](https://andrewbaluev.github.io/odijo-landing-page/)
 Верстка по курсу из YouTube. Адаптив под мобильные устройства, Grid, Flexbox. Дополнительно YouTube видео по уроку Вадима Макеева. 
