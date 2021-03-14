@@ -6,7 +6,7 @@
 В этой работе исполльзую grid и flexbox, выпадающее меню, смена цвета svg по наведению, кастомные checkbox, input и fieldset.
 В данный момент без адаптива.
 
-https://andrewbaluev.github.io/gym/
+[Gym](https://andrewbaluev.github.io/gym/) Страница многостраничного сайта, табы на jQuery.
 
 [Мой сайт](https://andrewbaluev.github.io/) Переключатель на темную тему, стандартные шрифты как в Bootstrap. Еще не готов.
 
