@@ -8,6 +8,8 @@
 
 [Gym](https://andrewbaluev.github.io/gym/) Страница многостраничного сайта, табы на jQuery.
 
+[PetShop](https://andrewbaluev.github.io/petshop/) Страница из макета интернет магазина, в работе использовал JavaScript, библиотеку Masonry
+
 [Мой сайт](https://andrewbaluev.github.io/) Переключатель на темную тему, стандартные шрифты как в Bootstrap. Еще не готов.
 
 =======Ниже учебные проекты с Youtube и различных курсов=======
