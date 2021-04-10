@@ -3,7 +3,7 @@
 ## Мои работы Вы можете посмотреть по ссылкам
 
 Проект Твиттер на React  
-[ссылка на страницу](https://andrewbaluev.github.io/project-twitter/)
+[ссылка на страницу](https://andrewbaluev.github.io/project-twitter/)  
 [ссылка на репозиторий с описанием](https://github.com/andrewbaluev/project-twitter)
 
 ***
