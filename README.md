@@ -4,7 +4,8 @@
 
 #### Проект Твиттер на React  
 [ссылка на страницу Project Twitter](https://andrewbaluev.github.io/project-twitter/)  
-[ссылка на репозиторий с описанием](https://github.com/andrewbaluev/project-twitter)
+[ссылка на репозиторий](https://github.com/andrewbaluev/project-twitter)  
+Полное описание проекта на странице с репозиторием
 ***
 #### Верстка страницы банка CitiBank  
 [ссылка на страницу CitiBank](https://andrewbaluev.github.io/citibank/)  
