@@ -2,8 +2,11 @@
 
 ## Мои работы Вы можете посмотреть по ссылкам
 
-[Учебный проект Твиттер](https://github.com/andrewbaluev/project-twitter)
-[Репозиторий с описанием](https://andrewbaluev.github.io/project-twitter/)
+[Учебный проект Твиттер] (https://andrewbaluev.github.io/project-twitter/)
+
+[Репозиторий с описанием] (https://github.com/andrewbaluev/project-twitter)
+
+***
 
 [CitiBank](https://andrewbaluev.github.io/citibank/)
 В этой работе исполльзую grid и flexbox, выпадающее меню, смена цвета svg по наведению, кастомные checkbox, input и fieldset.
