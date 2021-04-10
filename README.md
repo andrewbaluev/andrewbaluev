@@ -2,8 +2,9 @@
 
 ## Мои работы Вы можете посмотреть по ссылкам
 
-[Учебный проект Твиттер](https://andrewbaluev.github.io/project-twitter/)
-[Репозиторий с описанием](https://github.com/andrewbaluev/project-twitter)
+Проект Твиттер на React
+[ссылка на страницу](https://andrewbaluev.github.io/project-twitter/)
+[ссылка на репозиторий с описанием](https://github.com/andrewbaluev/project-twitter)
 
 ***
 
