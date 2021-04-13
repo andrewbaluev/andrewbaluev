@@ -31,7 +31,6 @@
 Страница из макета интернет магазина, в работе использовал JavaScript, библиотеку Masonry
 ***
 
-
 ## =======Ниже учебные проекты с Youtube и различных курсов=======  
 
 #### Верстка лендинга ActiveBox по урокам с YouTube канала BrainsCloud  
@@ -43,8 +42,10 @@
 [ссылка на страницу odijo](https://andrewbaluev.github.io/odijo-landing-page/)  
 [ссылка на репозиторий](https://github.com/andrewbaluev/activebox/)  
 Адаптив под мобильные устройства, Grid, Flexbox. Дополнительно YouTube видео заменено картинкой с иконкой, по клику прогрывается видео.
-
-
+***
+#### Верстка лендинга The Art of Arita
+[ссылка на страницу The Art of Arita](https://andrewbaluev.github.io/the-art-of-arita/)   
+[ссылка на репозиторий](https://github.com/andrewbaluev/the-art-of-arita)  
 
 
 <!--
