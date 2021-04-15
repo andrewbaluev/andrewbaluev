@@ -18,7 +18,7 @@
 [ссылка на страницу CitiBank](https://andrewbaluev.github.io/citibank/)  
 [ссылка на репозиторий](https://github.com/andrewbaluev/citibank/)  
 В этой работе исполльзую grid и flexbox, выпадающее меню, смена цвета svg по наведению, кастомные checkbox, input и fieldset.
-В данный момент без адаптива.
+Сайт полностью адаптивный под все устройства
 ***
 #### Верстка страницы фитнес клуба Gym  
 [ссылка на страницу Gym](https://andrewbaluev.github.io/gym/)  
