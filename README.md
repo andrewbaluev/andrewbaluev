@@ -47,7 +47,7 @@
 ***
 #### Верстка лендинга Odijo по курсу из YouTube
 [ссылка на страницу odijo](https://andrewbaluev.github.io/odijo-landing-page/)  
-[ссылка на репозиторий](https://github.com/andrewbaluev/activebox/)  
+[ссылка на репозиторий](https://github.com/andrewbaluev/odijo-landing-page/)  
 Адаптив под мобильные устройства, Grid, Flexbox. Дополнительно YouTube видео заменено картинкой с иконкой, по клику прогрывается видео.
 ***
 #### Верстка лендинга The Art of Arita
