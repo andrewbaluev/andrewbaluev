@@ -21,7 +21,7 @@
 Сайт полностью адаптивный под все устройства
 ***
 #### Верстка лендинга Restaurant  
-[ссылка на страницу Gym](https://andrewbaluev.github.io/restaurant/)  
+[ссылка на страницу Restaurant](https://andrewbaluev.github.io/restaurant/)  
 [ссылка на репозиторий](https://github.com/andrewbaluev/restaurant)  
 Одностраничный сайт на Bootstrap  
 Для интерактивных элементов использовал также библиотеки Glightbox, Isotope, AOS, Swiper  
