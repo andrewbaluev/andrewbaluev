@@ -20,6 +20,13 @@
 В этой работе исполльзую grid и flexbox, выпадающее меню, смена цвета svg по наведению, кастомные checkbox, input и fieldset.
 Сайт полностью адаптивный под все устройства
 ***
+#### Верстка лендинга Restaurant  
+[ссылка на страницу Gym](https://andrewbaluev.github.io/restaurant/)  
+[ссылка на репозиторий](https://github.com/andrewbaluev/restaurant)  
+Одностраничный сайт на Bootstrap  
+Для интерактивных элементов использовал также библиотеки Glightbox, Isotope, AOS, Swiper  
+Сайт полностью адаптивный под все устройства
+***
 #### Верстка страницы фитнес клуба Gym  
 [ссылка на страницу Gym](https://andrewbaluev.github.io/gym/)  
 [ссылка на репозиторий](https://github.com/andrewbaluev/gym/)  
