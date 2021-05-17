@@ -2,6 +2,12 @@
 
 ## Мои работы Вы можете посмотреть по ссылкам
 
+Быстрый переход к работам
+[Сайт портфолио фотограф](https://andrewbaluev.github.io/video-background/)  
+[Страница-слайдер](https://andrewbaluev.github.io/photo-slider/)  
+[Страница-галерея](https://andrewbaluev.github.io/photo-portfolio/) 
+
+
 #### Проект Твиттер на React  
 [ссылка на страницу Project Twitter](https://andrewbaluev.github.io/project-twitter/)  
 [ссылка на репозиторий](https://github.com/andrewbaluev/project-twitter)  
