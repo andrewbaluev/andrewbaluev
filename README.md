@@ -5,7 +5,12 @@
 Быстрый переход к работам  
 [Сайт портфолио фотограф](https://andrewbaluev.github.io/video-background/)  
 [Страница-слайдер](https://andrewbaluev.github.io/photo-slider/)  
-[Страница-галерея](https://andrewbaluev.github.io/photo-portfolio/) 
+[Страница-галерея](https://andrewbaluev.github.io/photo-portfolio/)  
+[Лендинг Restaurant](https://andrewbaluev.github.io/restaurant/)  
+[Страница PetShop](https://andrewbaluev.github.io/petshop/)  
+[Страница Gym](https://andrewbaluev.github.io/gym/)  
+[Страница CitiBank](https://andrewbaluev.github.io/citibank/)  
+
 
 
 #### Проект Твиттер на React  
