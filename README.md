@@ -3,8 +3,7 @@
 ## Мои работы Вы можете посмотреть по ссылкам
 
 Быстрый переход к работам  
-
-[Сайт портфолио фотограф 1](https://andrewbaluev.github.io/photographer/) 
+[Сайт портфолио фотограф 1](https://andrewbaluev.github.io/photographer/)  
 [Сайт портфолио фотограф 2](https://andrewbaluev.github.io/video-background/)  
 [Страница-слайдер](https://andrewbaluev.github.io/photo-slider/)  
 [Страница-галерея](https://andrewbaluev.github.io/photo-portfolio/)  
